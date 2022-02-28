@@ -36,7 +36,7 @@ contract UnionDB{
         string nameOfPresident;
         uint numOfState;
         uint population;
-        Ambassadorg ambassador; 
+        Ambassador ambassador; 
     }
 
     struct CountryV2{
